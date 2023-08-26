@@ -60,7 +60,7 @@ CI/CD: Jenkins, Gitlab, Github actions
 ![](Pasted%20image%2020230825203749.png)
 Kubernetes
 Model management
-	MLFlow (machine learing model registry)
+	MLFlow (machine learning model registry)
 	DVC (Data version control)
 	Git large file storage (alternative to DVC)
 Feature Store (schema registry)
