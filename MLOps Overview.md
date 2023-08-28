@@ -54,35 +54,36 @@ typically consists of the following:
 ## MLOps on cloud
 
 ## Tools
-Version control: Git, Gitlab
-CI/CD: Jenkins, Gitlab, Github actions
+- Version control: Git, Gitlab
+- CI/CD: Jenkins, Gitlab, Github actions
 
 **MLOps pipeline**
 ![](Pasted%20image%2020230825203749.png)
-Kubernetes
-Model management
+- Kubernetes
+- Model management
   MLFlow (machine learning model registry)
-  DVC (Data version control)
-  Git large file storage (alternative to DVC)
-Feature Store (schema registry)
-  Amazon sagemaker feature maker
-  Vertex AI feature store (GCP)
-  FEAST (open source)
-Cloud ML services
-  Amazon sage maker
-  Vertex.ai (GCP)
-  Azure machine learning
-  Kubeflow (opensource to create pipelines on k8s clusters)
-Model Monitoring
-  AWS model monitoring
-  Azure model monitoring 
-  GCP model monitoring
-  Evidently AI (opensource model monitoring tool)
-AutoML tools (subscription based tools)
-  Iguazio
-  DOMINO
-  Valohai
-  neptune.ai
+- Data versioning
+	- DVC (Data version control)
+	- Git large file storage (alternative to DVC)
+- Feature Store (schema registry)
+	- Amazon sagemaker feature maker
+	- Vertex AI feature store (GCP)
+	- FEAST (open source)
+- Cloud ML services
+	- Amazon sage maker
+	- Vertex.ai (GCP)
+	- Azure machine learning
+- Kubeflow (opensource to create pipelines on k8s clusters)
+- Model Monitoring
+	- AWS model monitoring
+	- Azure model monitoring 
+	- GCP model monitoring
+	- Evidently AI (opensource model monitoring tool)
+- AutoML tools (subscription based tools)
+	- Iguazio
+	- DOMINO
+	- Valohai
+	- neptune.ai
 ## Post-deployment challenges
 - Software engineering related
 - ML related

@@ -24,3 +24,18 @@ Complete Road map for AIOps or MLOps - 12min
 [Introduction to machine learning operations (MLOps) - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-machine-learn-operations/)
 
 [Learn MLOps with these 10 Courses - Geekflare](https://geekflare.com/mlops-courses/)
+
+# TEMP
+https://www.youtube.com/@AshutoshTripathi_AI/playlists
+https://www.youtube.com/watch?v=dPmH3G9NQtY&t=99s
+https://lms.antern.co/courses/core-machine-learning-regression-analysis
+https://www.udemy.com/course/nuts-and-bolts-of-mlflow/
+https://www.udemy.com/course/mastering-mlops-complete-course-for-ml-operations/
+https://www.udemy.com/course/complete-mlops-bootcamp-from-zero-to-hero-in-python-2022/
+https://www.udemy.com/course/azure-machine-learning-mlops-mg/
+https://www.udemy.com/course/mlops-course/
+https://www.udemy.com/course/dvc-and-git-for-data-science/
+https://www.udemy.com/course/kubeflow-bootcamp/
+https://www.udemy.com/course/ml-ops-beginner/
+
+https://www.youtube.com/watch?v=PURH-okbtLE
