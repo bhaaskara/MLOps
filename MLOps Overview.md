@@ -92,7 +92,7 @@ typically consists of the following:
 
 # Q&A
 AI ops or MLOps ?
-  as a it operations guy which is good for me AIOPS or MLOPS ?
+  as a IT operations guy which is good for me AIOPS or MLOPS ?
   https://chat.openai.com/share/247a628f-a8ce-4df9-a781-1749b62fce8e
 
  
